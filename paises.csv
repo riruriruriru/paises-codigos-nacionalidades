@@ -1,0 +1,250 @@
+id,name,alpha2,alpha3,nacionalidad
+4,Afganistán,af,afg,AFGANA
+248,Åland,ax,ala,ÅLAND
+8,Albania,al,alb,ALBANESA
+276,Alemania,de,deu,ALEMÁN
+20,Andorra,ad,and,ANDORRANA
+24,Angola,ao,ago,ANGOLEÑA
+660,Anguila,ai,aia,ANGUILA
+10,Antártida,aq,ata,ANTARTICA
+28,Antigua y Barbuda,ag,atg,ANTIGUANA
+682,Arabia Saudita,sa,sau,ÁRABE
+12,Argelia,dz,dza,ARGELINA
+32,Argentina,ar,arg,ARGENTINA
+51,Armenia,am,arm,ARMENIO
+533,Aruba,aw,abw,ARUBA
+36,Australia,au,aus,AUSTRALIANA
+40,Austria,at,aut,AUSTRIACA
+31,Azerbaiyán,az,aze,AZERBAIYANO
+44,Bahamas,bs,bhs,BAHAMEÑA
+50,Bangladés,bd,bgd,BANGLADESÍ
+52,Barbados,bb,brb,BARBADENSE
+48,Baréin,bh,bhr,BAHREINI
+56,Bélgica,be,bel,BELGA
+84,Belice,bz,blz,BELICEÑA
+204,Benín,bj,ben,BENINÉSA
+60,Bermudas,bm,bmu,BERMUDEÑO
+112,Bielorrusia,by,blr,BIELORRUSA
+68,Bolivia,bo,bol,BOLIVIANA
+535,"Bonaire, San Eustaquio y Saba",bq,bes,HOLANDÉS
+70,Bosnia y Herzegovina,ba,bih,"BOSNIA, HERZEGOVINA"
+72,Botsuana,bw,bwa,BOTSUANA
+76,Brasil,br,bra,BRASILERA
+96,Brunéi,bn,brn,BRUNEANA
+100,Bulgaria,bg,bgr,BULGARA
+854,Burkina Faso,bf,bfa,ALTO VOLTA
+108,Burundi,bi,bdi,BURUNDÉSA
+64,Bután,bt,btn,BUTANÉS
+132,Cabo Verde,cv,cpv,CABOVERDIANA
+116,Camboya,kh,khm,KAMPUCHEA
+120,Camerún,cm,cmr,CAMERUNÉSA
+124,Canadá,ca,can,CANADIENSE
+634,Catar,qa,qat,QATARÍ
+148,Chad,td,tcd,CHADIANA
+152,Chile,cl,chl,CHILENA
+156,China,cn,chn,CHINA
+196,Chipre,cy,cyp,CHIPRIOTA
+170,Colombia,co,col,COLOMBIANA
+174,Comoras,km,com,COMORENSE
+408,Corea del Norte,kp,prk,NORCOREANA
+410,Corea del Sur,kr,kor,SURCOREANA
+384,Costa de Marfil,ci,civ,MARFILEÑA
+188,Costa Rica,cr,cri,COSTARRICENSA
+191,Croacia,hr,hrv,CROATA
+192,Cuba,cu,cub,CUBANA
+531,Curazao,cw,cuw,HOLANDÉS
+208,Dinamarca,dk,dnk,DANESA
+212,Dominica,dm,dma,DOMINIQUÉSA
+218,Ecuador,ec,ecu,ECUATORIANA
+818,Egipto,eg,egy,EGIPCIA
+222,El Salvador,sv,slv,SALVADOREÑA
+784,Emiratos Árabes Unidos,ae,are,EMIRATÍ
+232,Eritrea,er,eri,ESTONIA
+703,Eslovaquia,sk,svk,ESLOVACO
+705,Eslovenia,si,svn,ESLOVENO
+724,España,es,esp,ESPAÑOLA
+840,Estados Unidos,us,usa,ESTADOUNIDENSE
+233,Estonia,ee,est,ESTONIO
+231,Etiopía,et,eth,ETÍOPE
+608,Filipinas,ph,phl,FILIPINA
+246,Finlandia,fi,fin,FINLANDESA
+242,Fiyi,fj,fji,"FIDJI, ISLAS"
+250,Francia,fr,fra,FRANCESA
+266,Gabón,ga,gab,GABONÉSA
+270,Gambia,gm,gmb,GAMBIANA
+268,Georgia,ge,geo,GEORGIANO
+288,Ghana,gh,gha,GHANÉSA
+292,Gibraltar,gi,gib,GIBRALTAREÑA
+308,Granada,gd,grd,GRANADINA
+300,Grecia,gr,grc,GRACIA
+304,Groenlandia,gl,grl,GROENLANDESA
+312,Guadalupe,gp,glp,GUADALUPE
+316,Guam,gu,gum,GUAMEÑA
+320,Guatemala,gt,gtm,GUATEMALTECA
+254,Guayana Francesa,gf,guf,GUYANÉSA
+831,Guernsey,gg,ggy,ISLEÑO DEL CANAL
+324,Guinea,gn,gin,GUINEANA
+624,Guinea-Bisáu,gw,gnb,GUINEANA
+226,Guinea Ecuatorial,gq,gnq,ECUATOGUINEANA
+328,Guyana,gy,guy,GUYANÉSA
+332,Haití,ht,hti,HAITIANA
+340,Honduras,hn,hnd,HONDUREÑA
+344,Hong Kong,hk,hkg,HONGKONESA
+348,Hungría,hu,hun,HÚNGARA
+356,India,in,ind,INDIA
+360,Indonesia,id,idn,INDONESA
+368,Irak,iq,irq,IRAQUÍ
+364,Irán,ir,irn,IRANÍ
+372,Irlanda,ie,irl,IRLANDESA
+74,Isla Bouvet,bv,bvt,"BOUVET, ISLA"
+833,Isla de Man,im,imn,DE LA ISLA DE MAN
+162,Isla de Navidad,cx,cxr,NAVIDEÑA
+352,Islandia,is,isl,ISLANDÉSA
+136,Islas Caimán,ky,cym,CAIMANES
+166,Islas Cocos,cc,cck,COCANA
+184,Islas Cook,ck,cok,COOKIANA
+234,Islas Feroe,fo,fro,FEROESA
+239,Islas Georgias del Sur y Sandwich del Sur,gs,sgs,GEORGIA DEL SUR Y LAS ISLAS SANDWICH DEL SUR
+334,Islas Heard y McDonald,hm,hmd,"HEARD Y MCDONALD, ISLAS"
+238,Islas Malvinas,fk,flk,MALVINENSE
+580,Islas Marianas del Norte,mp,mnp,AMERICANO
+584,Islas Marshall,mh,mhl,MARSHALÉS
+612,Islas Pitcairn,pn,pcn,PITCAIRNESA
+90,Islas Salomón,sb,slb,SALOMONENSE
+796,Islas Turcas y Caicos,tc,tca,TURCOCAIQUEÑA
+581,Islas Ultramarinas Menores de los Estados Unidos,um,umi,AMERICANO
+92,Islas Vírgenes Británicas,vg,vgb,VIRGENENSE BRITANICA
+850,Islas Vírgenes de los Estados Unidos,vi,vir,"VIRGENES, ISLAS"
+376,Israel,il,isr,ISRAELÍ
+380,Italia,it,ita,ITALIANA
+388,Jamaica,jm,jam,JAMAICANA
+392,Japón,jp,jpn,JAPONESA
+832,Jersey,je,jey,ISLEÑO DEL CANAL
+400,Jordania,jo,jor,JORDANA
+398,Kazajistán,kz,kaz,KAZAJO
+404,Kenia,ke,ken,KENIANA
+417,Kirguistán,kg,kgz,KIRGUÍS
+296,Kiribati,ki,kir,KIRIBATIANA
+414,Kuwait,kw,kwt,KUWAITÍ
+418,Laos,la,lao,LAOSIANA
+426,Lesoto,ls,lso,LESOTENSE
+428,Letonia,lv,lva,LETONA
+422,Líbano,lb,lbn,LIBANÉSA
+430,Liberia,lr,lbr,LIBERIANA
+434,Libia,ly,lby,LIBIA
+438,Liechtenstein,li,lie,LIECHTENSTEINIANA
+440,Lituania,lt,ltu,LETONESA
+442,Luxemburgo,lu,lux,LUXEMBURGUÉSA
+446,Macao,mo,mac,MACAENSE
+807,Macedonia del Norte,mk,mkd,MACEDÓNIO
+450,Madagascar,mg,mdg,MALGACHE
+458,Malasia,my,mys,MALAYA
+454,Malaui,mw,mwi,MALAUÍ
+462,Maldivas,mv,mdv,MALDIVA
+466,Malí,ml,mli,MALI
+470,Malta,mt,mlt,MALTÉSA
+504,Marruecos,ma,mar,MARROQUÍ
+474,Martinica,mq,mtq,MARTINICA
+480,Mauricio,mu,mus,MAURICIANA
+478,Mauritania,mr,mrt,MAURITANA
+175,Mayotte,yt,myt,FRANCÉS
+484,México,mx,mex,MEXICANA
+583,Micronesia,fm,fsm,MICRONESIA
+498,Moldavia,md,mda,MOLDAVO
+492,Mónaco,mc,mco,MONEGASCA
+496,Mongolia,mn,mng,MONGOL
+499,Montenegro,me,mne,MONTENEGRINO
+500,Montserrat,ms,msr,MONSERRATINA
+508,Mozambique,mz,moz,MOZAMBIQUEÑA
+104,Birmania,mm,mmr,BIRMANA
+516,Namibia,na,nam,NAMIBIA
+520,Nauru,nr,nru,NAURUANA
+524,Nepal,np,npl,NEPALÉSA
+558,Nicaragua,ni,nic,NICARAGÜENSE
+562,Níger,ne,ner,NIGERINA
+566,Nigeria,ng,nga,NIGERIANA
+570,Niue,nu,niu,NIUEÑA
+574,Isla Norfolk,nf,nfk,"NORFOLK, ISLA"
+578,Noruega,no,nor,NORUEGA
+540,Nueva Caledonia,nc,ncl,NEOCALEDONIA
+554,Nueva Zelanda,nz,nzl,NEOZELANDÉSA
+512,Omán,om,omn,OMANÍ
+528,Países Bajos,nl,nld,HOLANDESA
+586,Pakistán,pk,pak,PAKISTANÍ
+585,Palaos,pw,plw,PALAU
+275,Palestina,ps,pse,PALESTINO
+591,Panamá,pa,pan,PANAMEÑO
+598,Papúa Nueva Guinea,pg,png,PAPÚA
+600,Paraguay,py,pry,PARAGUAYA
+604,Perú,pe,per,PERUANA
+258,Polinesia Francesa,pf,pyf,FRANCOPOLINESIA
+616,Polonia,pl,pol,POLACA
+620,Portugal,pt,prt,PORTUGUESA
+630,Puerto Rico,pr,pri,PUERTORRIQUEÑO
+826,Reino Unido,gb,gbr,BRITÁNICO
+732,República Árabe Saharaui Democrática,eh,esh,SAHARAUI
+140,República Centroafricana,cf,caf,CENTROAFRICANA
+203,República Checa,cz,cze,CHECO
+178,República del Congo,cg,cog,CONGOLEÑA
+180,República Democrática del Congo,cd,cod,ZAIREÑA
+214,República Dominicana,do,dom,DOMINICANA
+638,Reunión,re,reu,REUNION
+646,Ruanda,rw,rwa,RUANDÉSA
+642,Rumania,ro,rou,RUMANA
+643,Rusia,ru,rus,RUSO
+882,Samoa,ws,wsm,SAMOANA
+16,Samoa Americana,as,asm,SAMOAMERICANA
+652,San Bartolomé,bl,blm,ISLA DE SAN BARTOLOMÉ
+659,San Cristóbal y Nieves,kn,kna,KITTIAN Y NEVISIAN
+674,San Marino,sm,smr,SANMARINES
+663,San Martín,mf,maf,ISLA DE SAN MARTÍN
+666,San Pedro y Miquelón,pm,spm,SANPEDRINA
+670,San Vicente y las Granadinas,vc,vct,SANVICENTINA
+654,"Santa Elena, Ascensión y Tristán de Acuña",sh,shn,SANTAHELENA
+662,Santa Lucía,lc,lca,SANTALUCENSE
+678,Santo Tomé y Príncipe,st,stp,SANTOTOMENSE
+686,Senegal,sn,sen,SENEGALÉSA
+688,Serbia,rs,srb,SERBIO
+690,Seychelles,sc,syc,SEYCHELLENSA
+694,Sierra Leona,sl,sle,SIERRALEONÉSA
+702,Singapur,sg,sgp,SINGAPURENSA
+534,San Martín,sx,sxm,HOLANDÉS
+760,Siria,sy,syr,SIRIA
+706,Somalia,so,som,SOMALÍ
+144,Sri Lanka,lk,lka,CEILANÉSA
+748,Suazilandia,sz,swz,SUAZI
+710,Sudáfrica,za,zaf,SUDAFRICANA
+729,Sudán,sd,sdn,SUDANÉS
+728,Sudán del Sur,ss,ssd,SURSUDANESES
+752,Suecia,se,swe,SUECA
+756,Suiza,ch,che,SUIZA
+740,Surinam,sr,sur,SURINAMÉSA
+744,Svalbard y Jan Mayen,sj,sjm,SVALBARENSE
+764,Tailandia,th,tha,TAILANDESA
+158,Taiwán (República de China),tw,twn,TAIWANESA
+834,Tanzania,tz,tza,TANZANA
+762,Tayikistán,tj,tjk,TADJIKISTAN
+86,Territorio Británico del Océano Índico,io,iot,"INDICO, OCEANO (T. BRITANICO)"
+260,Tierras Australes y Antárticas Francesas,tf,atf,FRANCÉS
+626,Timor Oriental,tl,tls,TIMORENSE
+768,Togo,tg,tgo,TOGOLÉSA
+772,Tokelau,tk,tkl,TOKELAUENSE
+776,Tonga,to,ton,TONGANA
+780,Trinidad y Tobago,tt,tto,TRINITENSA
+788,Túnez,tn,tun,TUNECINA
+795,Turkmenistán,tm,tkm,TURCOMANO
+792,Turquía,tr,tur,TURCA
+798,Tuvalu,tv,tuv,TUVALUANA
+804,Ucrania,ua,ukr,UCRANIANA
+800,Uganda,ug,uga,UGANDÉSA
+858,Uruguay,uy,ury,URUGUAYA
+860,Uzbekistán,uz,uzb,UZBEKISTAN
+548,Vanuatu,vu,vut,VANUATUENSA
+336,"Vaticano, Ciudad del",va,vat,VATICANO
+862,Venezuela,ve,ven,VENEZOLANA
+704,Vietnam,vn,vnm,VIETNAMITA
+876,Wallis y Futuna,wf,wlf,WALISIANA
+887,Yemen,ye,yem,YEMENITA
+262,Yibuti,dj,dji,DJIBUTI
+894,Zambia,zm,zmb,ZAMBIANA
+716,Zimbabue,zw,zwe,ZIMBABUEN
